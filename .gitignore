@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local test PDFs
+*.local.pdf
+test-output/
+
+# Template backups — keep locally, don't commit
+mt_templates.json
